@@ -1,2 +1,2 @@
 # Square-Packing-Problem-of-Erdos
-This is a preprint currently under moderation at arXiv.
+https://arxiv.org/abs/2601.22163
